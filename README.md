@@ -5,4 +5,4 @@ Creating a repository for SE Homework-4.
 
 ![Static Badge](https://img.shields.io/badge/License-Mozilla_Public_License_2.0-green)
 
-[![Bash](https://img.shields.io/badge/language-Bash-green)](https://www.linux.org)
+[![Bash](https://img.shields.io/badge/language-Bash-blue)](https://www.linux.org)
